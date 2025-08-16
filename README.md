@@ -1,4 +1,4 @@
-# 🏦 GoldWallet Monolith Web Application with Spring Security + JWT
+# 🏦 GoldWallet Application with Spring Security + JWT
 
 A **secure Spring Boot 3.x monolith application** for managing digital gold transactions.  
 It uses **Spring Security + JWT tokens** for authentication and role-based access control (RBAC) with three roles:
