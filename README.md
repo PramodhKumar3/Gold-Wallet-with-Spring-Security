@@ -13,16 +13,17 @@ This README explains setup, JWT security flow, endpoints, and future enhancement
 
 ## 📑 Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Technology Stack](#-technology-stack)
-- [Project Structure](#-project-structure)
-- [Application Configuration](#-application-configuration)
-- [Authentication & Authorization with JWT](#-authentication--authorization-with-jwt)
-- [Endpoints Overview](#-endpoints-overview)
-- [Prerequisites](#-prerequisites)
-- [Run Instructions](#-run-instructions)
-- [Future Enhancements](#-future-enhancements)
-- [Contact](#-contact)
+1. [Project Overview](#-project-overview)
+2. [Technology Stack](#-technology-stack)
+3. [Screenshots](#️-screenshots)
+4. [Project Structure](#-project-structure)
+5. [Application Configuration](#-application-configuration)
+6. [Authentication & Authorization with JWT](#-authentication--authorization-with-jwt)
+7. [Endpoints Overview](#-endpoints-overview)
+8. [Prerequisites](#-prerequisites)
+9. [Run Instructions](#-run-instructions)
+10. [Future Enhancements](#-future-enhancements)
+11. [Contact](#-contact)
 
 ---
 
@@ -52,6 +53,22 @@ With **Spring Security + JWT** integration, the system ensures:
 - **MySQL** — Database for storing entities
 - **Maven** — Build & dependency management
 - **Thymeleaf + Bootstrap** — Basic web interface for testing UI
+
+---
+
+## 🖼️ Screenshots
+
+### GoldWallet User Authentication
+
+![GoldWallet User Authentication](images/UserSecurity.png)
+
+### GoldWallet Admin Authentication
+
+![GoldWallet Admin Authentication](images/AdminSecurity.png)
+
+### GoldWallet Vendor Authentication
+
+![GoldWallet Vendor Authentication](images/VendorSecurity.png)
 
 ---
 
